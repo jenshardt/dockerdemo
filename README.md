@@ -1,3 +1,3 @@
-# Docker Demo
+# Docker Demo with a small ToDo-App
 
-Taken from https://docs.docker.com/get-started/02_our_app/
+Taken from https://docs.docker.com/get-started/
